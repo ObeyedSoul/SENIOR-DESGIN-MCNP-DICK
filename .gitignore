@@ -1,0 +1,20 @@
+# MCNP output files
+*.o
+*.r
+*.m
+*.ms
+*.ir
+outp
+runtpe
+srctp
+mctal
+mdata
+ptrac
+
+# Large data files
+*.tar
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
